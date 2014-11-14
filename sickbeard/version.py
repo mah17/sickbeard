@@ -1,1 +1,1 @@
-SICKBEARD_VERSION = "torrent_1080_subtitles"
+SICKBEARD_VERSION = "ausFork"

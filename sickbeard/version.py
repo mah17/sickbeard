@@ -1,1 +1,1 @@
-SICKBEARD_VERSION = "ausFork"
+SICKBEARD_VERSION = "master"
